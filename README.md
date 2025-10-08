@@ -4,7 +4,7 @@ A **full-stack MERN web application** designed to manage a bookstore’s invento
 
 Each book entry contains essential details such as **title, author, genre, and number of pages**. The project aims to simplify bookstore operations and replace manual inventory management with a modern, web-based solution.
 
-🔗 **Live Demo:** [View Deployed App on Vercel](https://your-vercel-deployment-link.vercel.app)
+🔗 **Live Demo:** [View Deployed App on Vercel](https://book-store-frontend-brown.vercel.app/)
 
 ---
 
